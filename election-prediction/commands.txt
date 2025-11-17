@@ -1,0 +1,6 @@
+
+You can open it in any Python IDE or convert it to a Jupyter Notebook (.ipynb) using tools like:
+
+jupyter nbconvert --to notebook election_prediction_starter.py --output election_prediction_starter.ipynb
+
+
