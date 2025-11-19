@@ -1,0 +1,79 @@
+
+DIRECT LINKS FOR TRADEMARK (India)
+
+🔍 Public Search (Check availability):
+https://tmrsearch.ipindia.gov.in/tmrpublicsearch/
+
+
+📝 Apply for New Trademark (e-filing):
+https://ipindiaonline.gov.in/trademarkefiling/user/frmLoginNew.aspx
+
+
+📊 Check Application Status:
+https://tmrsearch.ipindia.gov.in/eregister/
+
+
+📊 Check  Trademark by Mobile number- New Function
+https://tmrsearch.ipindia.gov.in/estatus
+
+
+📊 AI based Trademark Search- New Function
+https://tmsearch.ipindia.gov.in/ords/r/tisa/trademark_search/dpiit-public-search
+
+DIRECT LINKS FOR COPYRIGHT (India)
+📝 Apply for Copyright (Online Registration):
+https://copyright.gov.in/UserRegistration/frmLoginPage.aspx
+
+
+📊 Check Application Status:
+https://copyright.gov.in/frmStatusGenUser.aspx
+
+
+DIRECT LINKS FOR PATENT (India)
+🔍 Patent Search (InPASS):
+https://iprsearch.ipindia.gov.in/publicsearch
+
+
+📝 Apply for Patent (e-filing):
+https://ipronline.ipindia.gov.in/epatentfiling/goForLogin/doLogin
+
+
+📊 Check Application/Case Status:
+https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus 
+
+(IF NOT WORK REFRESH AGAIN)
+
+
+DIRECT LINKS FOR DESIGN (India)
+🔍 Design Search:
+https://search.ipindia.gov.in/designsearch
+
+
+📝 Apply for Design e-filing:
+https://ipindiaonline.gov.in/designapplication/
+
+
+📊 Check Application Status:
+https://search.ipindia.gov.in/DesignApplicationStatus
+
+
+===================================
+
+https://www.youtube.com/watch?v=rBeyHDKLVqM
+
+
+https://tmsearch.ai/search/?keyword=cloth&class=25&protection=IN
+
+https://tmsearch.ai/api/search/?keyword=ddd&class=25&protection=IN&api_key=TESTAPIKEY
+
+https://img.tmsearch.ai/img/210/IN/TM/APP/243457.jpg
+
+https://img.tmsearch.ai/img/210/IN/TM/APP/1230395.jpg
+
+
+
+https://tmsearch.ai/api/info/?number=83079139&type=APP&office=TR&api_key=TESTAPIKEY
+
+https://tmsearch.ai/api/info/?number=2956878&type=APP&office=IN&api_key=TESTAPIKEY
+
+office = app
